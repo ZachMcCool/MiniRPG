@@ -1,0 +1,12 @@
+C:\Users\Zach\ElevenFiftyProjects\C#Project\MiniRPG.Repository\bin\Debug\net6.0\MiniRPG.Repository.deps.json
+C:\Users\Zach\ElevenFiftyProjects\C#Project\MiniRPG.Repository\bin\Debug\net6.0\MiniRPG.Repository.dll
+C:\Users\Zach\ElevenFiftyProjects\C#Project\MiniRPG.Repository\bin\Debug\net6.0\ref\MiniRPG.Repository.dll
+C:\Users\Zach\ElevenFiftyProjects\C#Project\MiniRPG.Repository\bin\Debug\net6.0\MiniRPG.Repository.pdb
+C:\Users\Zach\ElevenFiftyProjects\C#Project\MiniRPG.Repository\obj\Debug\net6.0\MiniRPG.Repository.csproj.AssemblyReference.cache
+C:\Users\Zach\ElevenFiftyProjects\C#Project\MiniRPG.Repository\obj\Debug\net6.0\MiniRPG.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zach\ElevenFiftyProjects\C#Project\MiniRPG.Repository\obj\Debug\net6.0\MiniRPG.Repository.AssemblyInfoInputs.cache
+C:\Users\Zach\ElevenFiftyProjects\C#Project\MiniRPG.Repository\obj\Debug\net6.0\MiniRPG.Repository.AssemblyInfo.cs
+C:\Users\Zach\ElevenFiftyProjects\C#Project\MiniRPG.Repository\obj\Debug\net6.0\MiniRPG.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Zach\ElevenFiftyProjects\C#Project\MiniRPG.Repository\obj\Debug\net6.0\MiniRPG.Repository.dll
+C:\Users\Zach\ElevenFiftyProjects\C#Project\MiniRPG.Repository\obj\Debug\net6.0\ref\MiniRPG.Repository.dll
+C:\Users\Zach\ElevenFiftyProjects\C#Project\MiniRPG.Repository\obj\Debug\net6.0\MiniRPG.Repository.pdb

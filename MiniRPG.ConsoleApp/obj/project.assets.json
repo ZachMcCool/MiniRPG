@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "MiniRPG.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MiniRPG.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MiniRPG.Repository.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MiniRPG.Repository/1.0.0": {
+      "type": "project",
+      "path": "../MiniRPG.Repository/MiniRPG.Repository.csproj",
+      "msbuildProject": "../MiniRPG.Repository/MiniRPG.Repository.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "MiniRPG.Repository >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Zach\\.nuget\\packages\\": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Zach\\ElevenFiftyProjects\\C#Project\\MiniRPG.Repository\\MiniRPG.Repository.csproj": {
+              "projectPath": "C:\\Users\\Zach\\ElevenFiftyProjects\\C#Project\\MiniRPG.Repository\\MiniRPG.Repository.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

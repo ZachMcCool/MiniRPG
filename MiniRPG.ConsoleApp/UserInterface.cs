@@ -27,7 +27,7 @@ namespace MiniRPG.ConsoleApp
                 "\n4. Exit Application"
                 );
                 // _console.EnterSelection();
-                Console.Write("\nEnter Selection");
+                Console.Write("\nEnter Selection ");
                 string input = GetUserInput();
 
                 UserInputSwitchCase(input);
